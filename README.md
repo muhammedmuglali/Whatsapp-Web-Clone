@@ -20,5 +20,5 @@ A simple clone of WhatsApp Web using **HTML**, **CSS**, and **JavaScript**.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/Whatsapp-Web-Clone.git
+   git clone https://github.com/muhammedmuglali/Whatsapp-Web-Clone.git
    cd Whatsapp-Web-Clone
